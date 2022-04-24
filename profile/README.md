@@ -7,7 +7,7 @@ civil engineering society of SJCET Palai.
 
 
 * 🌍  We based in SJCET,Palai
-* 🖥️  Need to know about us: [visit our website](http://https://civil-engineering-society.github.io/asce-sjcet/)
+* 🖥️  Need to know about us: [visit our website](https://cessjcet.netlify.app/)
 
 
 <a href="https://www.github.com/Civil-Engineering-Society" target="_blank" rel="noreferrer"><img
