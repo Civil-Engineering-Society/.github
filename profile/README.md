@@ -3,7 +3,8 @@ Hi 👋 Welcome to civil Enginnering Society
 
 civil engineering society of SJCET Palai.
 -----------------------------------------
-![Screenshot (180)](https://user-images.githubusercontent.com/82531317/164974535-831e0681-8639-454f-9f1e-af189ab9b8d0.png)
+![sjcet-logo-mobile-new](https://user-images.githubusercontent.com/82531317/186058405-8888bf61-c815-4651-ad1e-90f8d6a8b4be.jpg)
+
 
 
 * 🌍  We based in SJCET,Palai
