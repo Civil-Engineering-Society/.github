@@ -11,8 +11,7 @@ civil engineering society of SJCET Palai.
 * 🖥️  Need to know about us: [visit our website](https://asce.sjcetpalai.c.in)
 
 
-<a href="https://www.github.com/Civil-Engineering-Society" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/asce-sjcet?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 
 
